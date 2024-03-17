@@ -1,13 +1,15 @@
 import random
 
 categoryKey = {
-   'categories': ['Colors', 'Fruits', 'Car Models', 'Animals', 'Instruments'],
+   'categories': ['Colors', 'Fruits', 'Ice Cream Flavors', 'Car Models', 'Animals', 'Instruments', 'Desserts'],
    'values': {
        'Colors': [ 'Blue', 'Red', 'Green', 'Orange', 'Purple', 'Yellow', 'Black', 'White', 'Brown' ],
        'Fruits': ['Apples', 'Strawberries', 'Mango', 'Kiwi', 'Grapefruit', 'Banana', 'Pineapple', 'Blood Orange', 'Blueberries', 'Clementines', 'Watermelon', 'Canteloupe', 'Honeydew'],
+       'Ice Cream Flavors': ['Strawberry', 'Vanilla', 'Chocolate', 'Coffee', 'Butter Pecan', 'Cookies n Cream', 'Pistachio', 'Chocolate Chip', 'Mint', 'Rocky Road', 'Brownie Batter'],
        'Car Models': ['Chevrolet', 'Toyota', 'Ford', 'Honda', 'Hyundai', 'Acura', 'Audi', 'BMW', 'Cadillac', 'Ferrari', 'Dodge', 'Tesla', 'Volkswagen', 'Rolls Royce', 'Porsche'],
        'Animals': ['Monkey', 'Salamander', 'Panda', 'Giraffe', 'Lion', 'Grizzly Bear', 'Rattlesnake', 'Panther', 'Leopard', 'Cheetah', 'Pelican', 'Iguana', 'Meerkat'],
-       'Instruments': ['Saxaphone', 'Flute', 'Piano', 'Trombone', 'Violin', 'Guitar', 'Clarinet', 'Trumpet', 'Drums', 'Cello', 'Bass Guitar']
+       'Instruments': ['Saxaphone', 'Flute', 'Piano', 'Trombone', 'Violin', 'Guitar', 'Clarinet', 'Trumpet', 'Drums', 'Cello', 'Bass Guitar'],
+       'Desserts': ['Apple Pie', 'Peach Cobbler', 'Banana Pudding', 'Chocolate Chip Cookies', 'Fudge Brownies', 'Pineapple Upsidedown Cake', 'Vanilla Cupcakes', 'Sugar Cookies', 'Rice Krispies Treat', 'Sweet Potato Pie', 'Chocolate Cake', 'Strawberry Shortcake']
    }
 }
 
